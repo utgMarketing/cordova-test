@@ -9,7 +9,9 @@
 Используем следующие технологии:
 
 https://cordova.apache.org/
+
 https://framework7.io/vue/ - как раз и есть тот SPA фреймворк, который обеспечивает нативный внешний вид.
+
 https://github.com/niklasmerz/cordova-plugin-fingerprint-aio - плагин touch id
 
 Так же для сборки приложений под андроид нужно будет установить:
